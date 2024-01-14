@@ -7,4 +7,4 @@ In my free time in-between work, I like to complete freecodecamp projects to kee
         alt="Javascript music player" 
         width="592" 
         height="1237" 
-        style="display: block; margin: 0 auto" />
+        style="display: block; margin: 0 auto;" />
